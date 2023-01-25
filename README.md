@@ -42,3 +42,6 @@ Please use the issue tracker provided by GitHub to send bug reports or feature r
 imageName = "YourOwnFork"
 installerName = 'YourOwnFork'
 
+Replace Wallet name under WavesFX.java "WavesFX Wallet"
+
+..\src\main\java\com\wavesfx\wavesfx\logic\Waves.java line 13 to change Display Name
